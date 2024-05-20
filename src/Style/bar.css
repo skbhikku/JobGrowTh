@@ -1,0 +1,28 @@
+.body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+}
+.navbar a.secondary {
+    background-color: rgb(255, 182, 193); /* Soft Pink */
+    color: rgb(44, 62, 80); /* Deep Blue for contrast */
+}
+.navbar a.accent {
+    background-color: rgb(255, 215, 0); /* Gold */
+    color: rgb(44, 62, 80); /* Deep Blue for contrast */
+}
+.navbar a:hover {
+    opacity: 0.8;
+    color: black;
+}

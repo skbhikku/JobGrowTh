@@ -1,0 +1,43 @@
+/* RegistrationForm.css */
+.body{
+    width: 35%;
+    margin-left: 29%;
+    margin-top: 10%;
+}
+.neumorphic {
+    background-color: #9cb7db;
+    box-shadow: 8px 8px 16px #d0d0d0, -8px -8px 16px #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.neumorphic-input {
+    background-color: #f0f0f0;
+    box-shadow: inset 8px 8px 16px #d0d0d0, inset -8px -8px 16px #ffffff;
+    border-radius: 10px;
+}
+
+.neumorphic-input input, .neumorphic-input select {
+    border: none;
+    outline: none;
+    background: transparent;
+    width: 100%; /* Width set to 30% */
+    padding: 10px; /* Reduced padding */
+    font-size: 16px;
+}
+
+.neumorphic-button {
+    background-color: #f0f0f0;
+    box-shadow: 5px 5px 10px #d0d0d0, -5px -5px 10px #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    
+}
+
+.neumorphic-button:hover {
+    box-shadow: 2px 2px 5px #d0d0d0, -2px -2px 5px #ffffff;
+}

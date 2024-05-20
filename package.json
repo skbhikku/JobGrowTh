@@ -1,0 +1,86 @@
+{
+
+  "name": "my-react-app",
+
+  "version": "0.1.0",
+
+  "private": false,
+
+  "dependencies": {
+
+    "@testing-library/jest-dom": "^5.17.0",
+
+    "@testing-library/react": "^13.4.0",
+
+    "@testing-library/user-event": "^13.5.0",
+
+    "axios": "^1.6.8",
+
+    "follow-redirects": "^1.15.6",
+
+    "mysql": "^2.18.1",
+
+    "nodemailer": "^6.9.13",
+
+    "react": "^18.3.1",
+
+    "react-dom": "^18.3.1",
+
+    "react-hook": "^0.0.1",
+
+    "react-router-dom": "^6.23.1",
+
+    "react-scripts": "5.0.1",
+
+    "web-vitals": "^3.5.2"
+
+  },
+
+  "scripts": {
+
+    "start": "react-scripts start",
+
+    "build": "react-scripts build",
+
+    "test": "react-scripts test"
+
+  },
+
+  "eslintConfig": {
+
+    "extends": "react-app"
+
+  },
+
+  "browserslist": {
+
+    "production": [
+
+      ">0.2%",
+
+      "not dead",
+
+      "not op_mini all"
+
+    ],
+
+    "development": [
+
+      "last 1 chrome version",
+
+      "last 1 firefox version",
+
+      "last 1 safari version"
+
+    ]
+
+  },
+
+  "devDependencies": {
+
+    "gh-pages": "^6.1.1"
+
+  }
+
+}
+

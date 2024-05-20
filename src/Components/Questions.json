@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which of the following is not a valid variable name in Python?",
+    "codeSnippet": "",
+    "options": [
+      " my_var",
+      "1_var",
+      "_var",
+      "var_1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In C++, what does the 'sizeof' operator return?",
+    "codeSnippet": "",
+    "options": [
+      "Size of the variable",
+      "Size of the datatype",
+      "Size of the memory allocated",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the output of the following code snippet in Java?",
+    "codeSnippet": "int x = 5;\nSystem.out.println(x++);\n",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+    "codeSnippet": "",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Swift, what keyword is used to declare a constant?",
+    "codeSnippet": "",
+    "options": [
+      "let",
+      "var",
+      "const",
+      "final"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "codeSnippet": "",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<hyperlink>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does CSS stand for?",
+    "codeSnippet": "",
+    "options": [
+      "Cascading Style Sheets",
+      "Creative Style Sheets",
+      "Creative Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a valid JavaScript data type?",
+    "codeSnippet": "",
+    "options": [
+      " string",
+      "boolean",
+      "undefined",
+      "decimal"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What does DOM stand for in the context of web development?",
+    "codeSnippet": "",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Document Oriented Model",
+      "Document Order Model"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of React JS?",
+    "codeSnippet": "",
+    "options": [
+      "Server-side scripting",
+      "Client-side scripting",
+      " Database management",
+      "Styling web pages"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a built-in data type in Python?",
+    "codeSnippet": "",
+    "options": [
+      "List",
+      "Array",
+      "Dictionary",
+      "Tuple"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "In C, what is the result of 'sizeof(int)' on a 32-bit system?",
+    "codeSnippet": "",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "Depends on the compiler"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What is the primary purpose of using Django?",
+    "codeSnippet": "",
+    "options": [
+      "Frontend development",
+      "Backend development",
+      "Mobile app development",
+      "Data analysis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a primitive data type in Java?",
+    "codeSnippet": "",
+    "options": [
+      "int",
+      "float",
+      "double",
+      "string"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What does the 'slice()' method do in Python?",
+    "codeSnippet": "",
+    "options": [
+      "Copies the entire list",
+      "Creates a subset of a list",
+      "Removes the last element of a list",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In HTML, which tag is used for creating a table row?",
+    "codeSnippet": "",
+    "options": [
+      "<td>",
+      "<th>",
+      " <tr>",
+      "<table>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the 'return' statement in Python functions?",
+    "codeSnippet": "",
+    "options": [
+      "To terminate the function execution",
+      "To return a value from the function",
+      " To print something to the console",
+      "To declare a variable"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a correct way to comment out code in JavaScript?",
+    "codeSnippet": "",
+    "options": [
+      "/* This is a comment */",
+      "// This is a comment",
+      "# This is a comment",
+      "<!-- This is a comment -->"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'map()' function in JavaScript?",
+    "codeSnippet": "",
+    "options": [
+      " To iterate over elements of an array",
+      "To create a new array with the results of calling a provided function on every element",
+      "To filter elements of an array based on a condition",
+      "To sort elements of an array"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which data structure in Python is mutable?",
+    "codeSnippet": "",
+    "options": [
+      "Tuple",
+      "List",
+      "Set",
+      "String"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'git commit' command?",
+    "codeSnippet": "",
+    "options": [
+      "To stage changes for commit",
+      "To push changes to a remote repository",
+      " To create a new branch",
+      "To save changes to the local repository"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is not a valid loop in Python?",
+    "codeSnippet": "",
+    "options": [
+      "for loop",
+      " while loop",
+      "do-while loop",
+      " foreach loop"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In CSS, how can you select an element with id \"demo\"?",
+    "codeSnippet": "",
+    "options": [
+      "#demo",
+      " .demo",
+      "demo",
+      "&demo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the 'render()' method in React JS?",
+    "codeSnippet": "",
+    "options": [
+      "To update the state of a component",
+      "To render JSX elements to the DOM",
+      "To handle user input",
+      "To define component lifecycle methods"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is true about Python dictionaries?",
+    "codeSnippet": "",
+    "options": [
+      "They are ordered",
+      "They can contain duplicate elements",
+      "They are mutable",
+      "They cannot be nested"
+    ],
+    "answer": 3
+  }
+]
