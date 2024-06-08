@@ -12,8 +12,8 @@ app.use(bodyParser.json());
 const pool = mysql.createPool({
     host: 'localhost',
     user: 'root',
-    password: 'prabhas001',
-    database: 'interview',
+    password: 'your_password',
+    database: 'your database name',
     port: '3306',
 });
 
